@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.ucla.cs.galaxygear.datacollection2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+        <activity
+            android:name="edu.ucla.cs.galaxygear.datacollection2.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <service android:name="edu.ucla.cs.galaxygear.datacollection2.DataCollectionService" />
+
+        <receiver
+            android:name="edu.ucla.cs.galaxygear.datacollection2.DataCollectionReceiver"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="edu.cs.ucla.galaxygear.datacollection.startservice" />
+                <action android:name="edu.cs.ucla.galaxygear.datacollection.stopservice" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name="edu.ucla.cs.galaxygear.datacollection2.AlarmSchedule" >
+        </activity>
+        <activity
+            android:name="edu.ucla.cs.galaxygear.datacollection2.PushQuestions"
+            android:theme="@android:style/Theme.Holo" >
+        </activity>
+        <activity android:name="edu.ucla.cs.galaxygear.datacollection2.SpinnerLayout" >
+        </activity>
+
+        <receiver
+            android:name="edu.ucla.cs.galaxygear.datacollection2.AlarmReciever"
+            android:exported="false" >
+        </receiver>
+
+        <activity
+            android:name="edu.ucla.cs.galaxygear.datacollection2.InitialTest"
+            android:label="@string/title_activity_initial_test" >
+        </activity>
+    </application>
+
+</manifest>

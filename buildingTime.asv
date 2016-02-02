@@ -1,0 +1,18 @@
+load data.txt;
+
+[m,n] = size(data);
+
+for i=1:m
+    if i==1
+        second(i)=0;
+        minute(i)=0;
+        hour(i)=0
+    else
+        
+        second(i)=idivide(data(i),1000);
+        if second(i) > 60
+            minute(i) = idivide(second(i),60);
+            if minute(i) >60
+                hour(i) = minute(i)//60
+                minute[i] = minute[i]%60
+                second[i] = second[i]%60
