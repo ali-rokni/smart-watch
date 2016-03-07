@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="15D21" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Ze-Zz-8TR">
+                                <rect key="frame" x="446" y="58" width="95" height="30"/>
+                                <state key="normal" title="Drinking Start"/>
+                                <connections>
+                                    <action selector="drinkingPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9cy-zd-OYF"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Anj-x5-YWb">
+                                <rect key="frame" x="65" y="58" width="81" height="30"/>
+                                <state key="normal" title="Eating Start"/>
+                                <connections>
+                                    <action selector="eatingPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7zt-qI-WqB"/>
+                                </connections>
+                            </button>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="EQK-vn-5en" userLabel="tableVC">
+                                <rect key="frame" x="0.0" y="112" width="600" height="316"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <prototypes>
+                                    <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="myCell" id="4BD-jg-Mjo">
+                                        <rect key="frame" x="0.0" y="28" width="600" height="44"/>
+                                        <autoresizingMask key="autoresizingMask"/>
+                                        <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="4BD-jg-Mjo" id="eU9-0k-6TP">
+                                            <rect key="frame" x="0.0" y="0.0" width="600" height="43.5"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                        </tableViewCellContentView>
+                                    </tableViewCell>
+                                </prototypes>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="MH6-C0-5fE"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="iaP-oj-t89"/>
+                                </connections>
+                            </tableView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oa0-rk-gZR">
+                                <rect key="frame" x="45" y="500" width="119" height="30"/>
+                                <state key="normal" title="Email Researcher"/>
+                                <connections>
+                                    <action selector="emailButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HAG-N9-2hl"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Anj-x5-YWb" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="38" id="1Td-S2-aOg"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="8Ze-Zz-8TR" secondAttribute="trailing" constant="39" id="Bb0-tT-8iH"/>
+                            <constraint firstItem="oa0-rk-gZR" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="25" id="RDn-mw-9HM"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="EQK-vn-5en" secondAttribute="trailing" constant="-20" id="UPt-aO-cKd"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="oa0-rk-gZR" secondAttribute="bottom" constant="70" id="Xo7-8Z-YSu"/>
+                            <constraint firstItem="EQK-vn-5en" firstAttribute="top" secondItem="Anj-x5-YWb" secondAttribute="bottom" constant="24" id="XwJ-OX-VSd"/>
+                            <constraint firstItem="oa0-rk-gZR" firstAttribute="top" secondItem="EQK-vn-5en" secondAttribute="bottom" constant="72" id="fZX-qT-M01"/>
+                            <constraint firstAttribute="trailing" secondItem="EQK-vn-5en" secondAttribute="trailing" id="kgq-kD-QP9"/>
+                            <constraint firstItem="8Ze-Zz-8TR" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="38" id="n2q-lf-uyN"/>
+                            <constraint firstItem="Anj-x5-YWb" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="45" id="sCE-Qq-lA1"/>
+                            <constraint firstItem="EQK-vn-5en" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="tLZ-WX-rHj"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="EQK-vn-5en" secondAttribute="trailing" constant="-20" id="zix-l1-RCi"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="dButton" destination="8Ze-Zz-8TR" id="U8u-d6-sdX"/>
+                        <outlet property="eButton" destination="8Ze-Zz-8TR" id="X92-jd-e0Y"/>
+                        <outlet property="myTable" destination="EQK-vn-5en" id="mcf-3F-6i8"/>
+                        <outlet property="rButton" destination="oa0-rk-gZR" id="jD1-db-k3q"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="305" y="387"/>
+        </scene>
+    </scenes>
+</document>
