@@ -18,16 +18,16 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Ze-Zz-8TR">
-                                <rect key="frame" x="446" y="58" width="95" height="30"/>
-                                <state key="normal" title="Drinking Start"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="8Ze-Zz-8TR">
+                                <rect key="frame" x="445" y="58" width="98" height="30"/>
+                                <state key="normal" title="Drinking_Start"/>
                                 <connections>
                                     <action selector="drinkingPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9cy-zd-OYF"/>
                                 </connections>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Anj-x5-YWb">
-                                <rect key="frame" x="65" y="58" width="81" height="30"/>
-                                <state key="normal" title="Eating Start"/>
+                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Anj-x5-YWb">
+                                <rect key="frame" x="64" y="58" width="84" height="30"/>
+                                <state key="normal" title="Eating_Start"/>
                                 <connections>
                                     <action selector="eatingPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="7zt-qI-WqB"/>
                                 </connections>
