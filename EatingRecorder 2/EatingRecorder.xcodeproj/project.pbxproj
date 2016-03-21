@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		2B05FF341C8D8ACF002FCD81 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2B05FF331C8D8ACF002FCD81 /* MessageUI.framework */; };
-		926227041C8E37320025A8AB /* original_316_1 in Resources */ = {isa = PBXBuildFile; fileRef = 926227031C8E37320025A8AB /* original_316_1 */; };
 		ACEA86951C8460B100C3DA2E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEA86941C8460B100C3DA2E /* main.m */; };
 		ACEA86981C8460B100C3DA2E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEA86971C8460B100C3DA2E /* AppDelegate.m */; };
 		ACEA869B1C8460B100C3DA2E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = ACEA869A1C8460B100C3DA2E /* ViewController.m */; };
@@ -38,7 +37,6 @@
 
 /* Begin PBXFileReference section */
 		2B05FF331C8D8ACF002FCD81 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
-		926227031C8E37320025A8AB /* original_316_1 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = original_316_1; path = ../../../../Downloads/original_316_1; sourceTree = "<group>"; };
 		ACEA86901C8460B100C3DA2E /* EatingRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EatingRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACEA86941C8460B100C3DA2E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		ACEA86961C8460B100C3DA2E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -113,7 +111,6 @@
 				ACEA869A1C8460B100C3DA2E /* ViewController.m */,
 				ACEA869C1C8460B100C3DA2E /* Main.storyboard */,
 				ACEA869F1C8460B100C3DA2E /* Assets.xcassets */,
-				926227031C8E37320025A8AB /* original_316_1 */,
 				ACEA86A11C8460B100C3DA2E /* LaunchScreen.storyboard */,
 				ACEA86A41C8460B100C3DA2E /* Info.plist */,
 				ACEA86931C8460B100C3DA2E /* Supporting Files */,
@@ -251,7 +248,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				926227041C8E37320025A8AB /* original_316_1 in Resources */,
 				ACEA86A31C8460B100C3DA2E /* LaunchScreen.storyboard in Resources */,
 				ACEA86A01C8460B100C3DA2E /* Assets.xcassets in Resources */,
 				ACEA869E1C8460B100C3DA2E /* Main.storyboard in Resources */,
