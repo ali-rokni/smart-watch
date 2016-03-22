@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b44c286-dd3a-46c2-877b-ec0f7957c6ff" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/InitialTest$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/InitialTest$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/InitialTest$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$100.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$101.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$102.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$21.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$22.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$23.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$24.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$25.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$26.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$27.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$28.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$29.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$30.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$31.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$32.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$33.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$34.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$35.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$36.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$37.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$38.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$39.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$40.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$41.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$42.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$43.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$44.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$45.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$46.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$47.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$48.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$49.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$50.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$51.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$52.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$53.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$54.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$55.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$56.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$57.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$58.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$59.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$60.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$61.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$62.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$63.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$64.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$65.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$66.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$67.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$68.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$69.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$70.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$71.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$72.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$73.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$74.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$75.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$76.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$77.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$78.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$79.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$80.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$81.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$82.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$83.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$84.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$85.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$86.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$87.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$88.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$89.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$90.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$91.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$92.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$93.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$94.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$95.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$96.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$97.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$98.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions$99.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/R.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/AlarmReciever.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/AlarmReciever.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/AlarmSchedule.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/AlarmSchedule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/DataCollectionReceiver.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/DataCollectionReceiver.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/DataCollectionService.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/DataCollectionService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/InitialTest.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/InitialTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/MainActivity.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/PushQuestions.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/SensorEventDAO.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/SensorEventDAO.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/SpinnerLayout.class" afterPath="$PROJECT_DIR$/bin/classes/edu/ucla/cs/galaxygear/datacollection2/SpinnerLayout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EatingRecorder 2/EatingRecorder.xcodeproj/project.xcworkspace/xcuserdata/amandazulas.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/EatingRecorder 2/EatingRecorder.xcodeproj/project.xcworkspace/xcuserdata/amandazulas.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EatingRecorder/EatingRecorder.xcodeproj/project.xcworkspace/xcuserdata/amandazulas.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/EatingRecorder/EatingRecorder.xcodeproj/project.xcworkspace/xcuserdata/amandazulas.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/MainActivity.java" afterPath="$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/MainActivity.java" />
+    </list>
+    <ignored path="smart-watch.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="smart-watch" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AlarmReciever.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/AlarmReciever.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlarmSchedule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/AlarmSchedule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataCollectionReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/DataCollectionReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataCollectionService.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/DataCollectionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.6961852">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InitialTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/InitialTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.388889">
+              <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PushQuestions.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/PushQuestions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="137.22223">
+              <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="9" />
+    <option name="y" value="43" />
+    <option name="width" value="1668" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="galaxygear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-watch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edu" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ucla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="galaxygear" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datacollection2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="AndroidView">
+        <subPane />
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b44c286-dd3a-46c2-877b-ec0f7957c6ff" name="Default" comment="" />
+      <created>1458604355333</created>
+      <option name="number" value="Default" />
+      <updated>1458604355333</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="9" y="43" width="1668" height="907" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13161132" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13714637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/AlarmReciever.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/AlarmSchedule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/DataCollectionReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/SpinnerLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/SensorEventDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/PushQuestions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="137.22223">
+          <caret line="145" column="8" selection-start-line="145" selection-start-column="8" selection-end-line="145" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.388889">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/InitialTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucla/cs/galaxygear/datacollection2/DataCollectionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6961852">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

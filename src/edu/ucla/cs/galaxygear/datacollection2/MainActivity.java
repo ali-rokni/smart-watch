@@ -59,9 +59,11 @@ public class MainActivity extends Activity {
 		switch (item.getItemId()) {
 		case R.id.action_start_data_collection:
 			sendBroadcast(new Intent("edu.cs.ucla.galaxygear.datacollection.startservice"));
+			mStatusText.setText("Service is running");
 			return true;
 		case R.id.action_stop_data_collection:
 			sendBroadcast(new Intent("edu.cs.ucla.galaxygear.datacollection.stopservice"));
+			mStatusText.setText("Service is not running");
 			return true;
 		case R.id.action_check_data_collection:
 			setStatusText();
