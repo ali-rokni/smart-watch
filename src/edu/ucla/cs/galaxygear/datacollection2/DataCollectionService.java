@@ -1,4 +1,4 @@
-package edu.ucla.cs.galaxygear.datacollection2;
+package watch;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
@@ -8,7 +8,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.LinkedList;
 import java.util.Locale;
-
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import android.app.Notification;
 import android.app.Service;
 import android.content.Context;
@@ -152,10 +153,21 @@ public class DataCollectionService extends Service implements SensorEventListene
 			File file = new File(sDirectory, sFilenameFormat.format(new Date()));
 			mFileOutputStream = new BufferedOutputStream(new FileOutputStream(file, true));
 			
+			//date formatting
+			String dateFormat = "MMM dd yyyy hh.mm.ss a";
+			DateFormat df = new SimpleDateFormat(dateFormat);
+			Date[] dates = new Date[mBufferedTimestamps.length];
+			//copies milliseconds array to date array
+			for(int i = 0; i < mBufferedTimestamps.length; i++)
+			{
+				dates[i] = new Date(mBufferedTimestamps[i]);
+			}
+			
+			
 			// Write out each line of sensor data
 			for (int i=0; i<ptrBuffer; ++i) {
 				String mDataLine = 
-						mBufferedTimestamps[i]+","+
+						df.format(dates[i])+","+
 						mBufferedReadings[i][0]+","+
 						mBufferedReadings[i][1]+","+
 						mBufferedReadings[i][2]+","+
